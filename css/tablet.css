@@ -1,0 +1,8 @@
+@media screen and (max-width: 992px) {
+  div.avatar {
+    display: none;
+  }
+  h1.pt-5.pb-5 {
+    font-size: 30px;
+  }
+}

@@ -1,0 +1,10 @@
+@media screen and (max-width: 576px) {
+  h1.pt-5.pb-5 {
+    font-size: 30px;
+  }
+  .du-an {
+    border-bottom: 2px solid gray;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+  }
+}
